@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-argo",
+  "main": "sgyyuwd.js",
+  "private": false,
+  "scripts": {
+    "start": "node sgyyuwd.js"
+  },
+  "dependencies": {
+    "axios": "latest",
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
